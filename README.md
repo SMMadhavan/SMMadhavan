@@ -1,5 +1,5 @@
 Hi, I’m SM Madhavan 👋  
-I’m a final-year CSE (AI & ML) undergraduate, currently focused on building strong fundamentals and working on practical projects.
+I’m a CSE (AI & ML) undergraduate, currently focused on building strong fundamentals and working on practical projects.
 
 ### Currently focused on
 - Strengthening Python and core programming fundamentals  
