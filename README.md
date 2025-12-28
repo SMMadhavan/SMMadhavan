@@ -1,16 +1,20 @@
-## Hi there 👋
+Hi, I’m Sm Madhavan 👋  
+I’m a final-year CSE (AI & ML) undergraduate, currently focused on building strong fundamentals and working on practical projects.
 
-<!--
-**SMMadhavan/SMMadhavan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Currently focused on
+- Strengthening Python and core programming fundamentals  
+- Building small, consistent projects to develop good GitHub habits  
+- Exploring AI/ML concepts through hands-on practice  
 
-Here are some ideas to get you started:
+### Learning & working with
+- Python  
+- Basics of Machine Learning and NLP  
+- Git & GitHub  
+- Problem-solving and code organization  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### How I use GitHub
+- To track my learning and coding progress  
+- To build consistency through regular commits  
+- To gradually work towards open-source contributions  
+
+I believe steady progress and clear fundamentals matter more than rushing ahead, and I’m documenting that journey here.
