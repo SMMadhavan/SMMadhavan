@@ -1,4 +1,4 @@
-Hi, I’m Sm Madhavan 👋  
+Hi, I’m SM Madhavan 👋  
 I’m a final-year CSE (AI & ML) undergraduate, currently focused on building strong fundamentals and working on practical projects.
 
 ### Currently focused on
