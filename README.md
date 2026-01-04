@@ -8,8 +8,9 @@ I’m a CSE (AI & ML) undergraduate, currently focused on building strong fundam
 
 ### Learning & working with
 - Python  
-- Basics of Machine Learning and NLP  
-- Git & GitHub  
+- Basics of Machine Learning,Deep Learning and NLP  
+- Git & GitHub
+- Web Dev Fundamentals
 - Problem-solving and code organization  
 
 ### How I use GitHub
@@ -17,4 +18,4 @@ I’m a CSE (AI & ML) undergraduate, currently focused on building strong fundam
 - To build consistency through regular commits  
 - To gradually work towards open-source contributions  
 
-I believe steady progress and clear fundamentals matter more than rushing ahead, and I’m documenting that journey here.
+
