@@ -3,7 +3,7 @@ I’m a CSE (AI & ML) undergraduate, currently focused on building strong fundam
 
 ### Currently focused on
 - Strengthening Python and core programming fundamentals  
-- Building small, consistent projects to develop good GitHub habits  
+- Building small, consistent projects  
 - Exploring AI/ML, GenAI concepts through hands-on practice  
 
 ### Learning & working with
