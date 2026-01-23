@@ -9,7 +9,7 @@ I’m a CSE (AI & ML) undergraduate, currently focused on building strong fundam
 ### Learning & working with
 - Python  
 - Basics of Machine Learning, Deep Learning and NLP  
-- Web Dev Fundamentals
+- Web Development Fundamentals
 - Problem-solving and code organization  
 
 ### How I use GitHub
